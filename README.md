@@ -13,7 +13,7 @@ Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar
 ```bash
 pip install tkcalendar
 ```
-ou o arquivo requirements.txt
+ou utilizar o arquivo "requirements.txt" para instalar as dependências
 ```bash
 Babel==2.10.3
 pytz==2022.1
